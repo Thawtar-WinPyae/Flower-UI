@@ -1,0 +1,14 @@
+
+.p1{
+    color: rgb(219, 93, 114);
+    font-size: 40px;
+}
+.p2{
+    color: white;
+    font-size: 30px;
+}
+.ccover{
+    background-image: url('https://media.istockphoto.com/id/514411672/photo/office-leather-desk-table-with-coffee-and-supplies.jpg?s=170667a&w=0&k=20&c=0zXm3-WdXA0czkggA3pAncezEa2e66gTnabG2nwLtl4=');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
