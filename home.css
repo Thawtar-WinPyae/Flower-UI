@@ -3,7 +3,11 @@
     color: white;
 }
 .navbar-brand{
+<<<<<<< HEAD
     color: rgb(255, 255, 255);
+=======
+    color: white;
+>>>>>>> 098492b6956876a320ec709481d94f7f867dbf2e
 }
 .rbg{
     background-color: #cb0e40 !important;
